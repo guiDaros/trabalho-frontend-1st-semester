@@ -17,6 +17,11 @@ body {
     padding: 0 20px;
 }
 
+.card a {
+  text-decoration: none;
+  color: inherit;
+}
+
 /*HEADER*/
 header {
     background: linear-gradient(135deg, #2c3e50, #3498db);
@@ -184,6 +189,35 @@ footer .small {
     font-size: 0.9rem;
     opacity: 0.8;
     margin-top: 10px;
+}
+
+/* ATUALIZACOES BOTAO LINKEDIN */
+
+.btn-linkedin {
+  display: inline-block;
+  background-color: #0A66C2;
+  color: #ffffff;
+  padding: 8px 14px;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  margin-top: 12px;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.btn-linkedin:hover {
+  background-color: #084a91;
+  transform: translateY(-1px);
+}
+
+.btn-linkedin:active {
+  transform: translateY(0);
+}
+
+section a.btn-linkedin {
+  margin-top: 10px;
 }
 
 /*BOTAO DE VOLTAR AO TOPO*/
