@@ -5,7 +5,7 @@ Trabalho final da disciplina de Frontend (HTML, CSS e JavaScript).
 
 ## Sobre o projeto
 
-A ideia era criar um site pessoal que funcionasse como currículo online, seguindo as diretrizes do site Infojobs.
+A ideia foi criar um site pessoal que funcionasse como currículo online, seguindo as diretrizes do site Infojobs.
 
 Antes de migrar meus estudos pra area atual, eu mexia bastante com front-end. Fiz alguns cursos na área, incluindo React e CSS. Também fiz o curso Full Stack Developer do Rodolfo Mori (DevClub), que me ajudou bastante com organização de código e boas práticas. Resgatei um pouquinho dessa base pra desenvolver esse projeto.
 
@@ -35,4 +35,10 @@ Antes de migrar meus estudos pra area atual, eu mexia bastante com front-end. Fi
 
 Basta acessar a versao publicada clicando aqui abaixo:
 [Link web do site](https://curriculo-guilherme-daros.netlify.app/)
+
+## OBS
+
+Eu ja tinha meu site anteriormente, o qual vou deixar o link aqui abaixo, mas por nao ter certeza se atenderia as diretrizes exatas do trabalho, fiz entao um exclusivo para o fim. 
+[Link do meu outro site](https://new-portfolio-data-eng.vercel.app/)
+
 
